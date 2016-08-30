@@ -1,0 +1,1 @@
+{"version":3,"sources":["log.js"],"names":["demo","msg","alert"],"mappings":"AAEA,QAASA,MAAMC,GACXC,MAAM,eAAiBD,EAAM,gBAGjCD,KAAK","file":"log.js","sourcesContent":["// a.js\n\nfunction demo (msg) {\n    alert('--------\\r\\n' + msg + '\\r\\n--------')\n}\n\ndemo('Hi')"],"sourceRoot":"/source/"}
