@@ -1,1 +1,3 @@
-body a{color:pink}
+.less a {
+  color: pink;
+}
